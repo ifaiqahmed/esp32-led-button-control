@@ -14,8 +14,8 @@ This project demonstrates basic GPIO control using ESP32.
 - Push button
 
 ## Wiring
-- GPIO 2 → LED
+- GPIO 5 → LED
 - GPIO 4 → Button
 
 ## Author
-Your Name
+Faiq Ahmed
